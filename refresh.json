@@ -8,21 +8,22 @@
       "goodsId":0,
       "spanSize":4,
       "banners":[
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714447903&di=0980dfe7f4af597440933d60b6375162&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0143545704b8166ac72579486f0ef8.JPG",
-        "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=117719855,426109692&fm=27&gp=0.jpg",
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714982342&di=3862ca1617aeec0818d6b1df82f0e6b1&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01904d56dbe7446ac72531cba0a949.JPG%402o.jpg"
+        "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1776532765,634619600&fm=27&gp=0.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516729217374&di=e7d89e23f9d8f7ab9ae23e01817b21d6&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01e31358ef4cb0a8012049efddf2bd.jpg%40900w_1l_2o_100sh.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516729320388&di=90d9bcb803e4f9abee740a0c38116369&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01250756dbe7336ac72531cb1f09c0.JPG%402o.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516730046276&di=0c91ded98c3dff487595eef5a4f247f7&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01312d58fff05ea8012145500aa06d.jpg%402o.jpg"
       ]
     },
     {
       "goodsId":1,
       "text":"测试描述1",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714807630&di=08a4dd38f074e3e75fad60e8176adeca&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01c17059afa2d7a801211d256b9cf4.jpg%402o.jpg",
+      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516730070247&di=6f42c9f524af289d714c4520614abce0&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D2356857058%2C3632184488%26fm%3D214%26gp%3D0.jpg",
       "spanSize":4
     },
     {
       "goodsId":2,
       "text":"测试描述2",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714447901&di=003b3ef0970a4a87372e17e145c3698e&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01471759884224a8012156033a3e32.jpg",
+      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516729217373&di=1f3bcf8148c12f88c498d9d33c7417d4&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F014d0556dbe7326ac72531cbbc91c4.JPG%402o.jpg",
       "spanSize":2
     },
     {

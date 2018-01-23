@@ -1,18 +1,7 @@
 {
   "code":0,
   "message":"OK",
-  "total":11,
-  "page_size":6,
   "data":[
-    {
-      "goodsId":0,
-      "spanSize":4,
-      "banners":[
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714447903&di=0980dfe7f4af597440933d60b6375162&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0143545704b8166ac72579486f0ef8.JPG",
-        "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=117719855,426109692&fm=27&gp=0.jpg",
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514714982342&di=3862ca1617aeec0818d6b1df82f0e6b1&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01904d56dbe7446ac72531cba0a949.JPG%402o.jpg"
-      ]
-    },
     {
       "goodsId":1,
       "text":"测试描述1",
