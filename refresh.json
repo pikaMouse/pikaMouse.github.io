@@ -8,16 +8,16 @@
       "goodsId":0,
       "spanSize":4,
       "banners":[
-        "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1776532765,634619600&fm=27&gp=0.jpg",
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516729217374&di=e7d89e23f9d8f7ab9ae23e01817b21d6&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01e31358ef4cb0a8012049efddf2bd.jpg%40900w_1l_2o_100sh.jpg",
+        "https://gd3.alicdn.com/imgextra/i3/87268030/TB285K4eFXXXXclXpXXXXXXXXXX_!!87268030.jpg",
+        "https://gd3.alicdn.com/imgextra/i3/1618246381/TB2KA49jTnI8KJjSszbXXb4KFXa_!!1618246381.jpg",
         "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516729320388&di=90d9bcb803e4f9abee740a0c38116369&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01250756dbe7336ac72531cb1f09c0.JPG%402o.jpg",
-        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516730046276&di=0c91ded98c3dff487595eef5a4f247f7&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01312d58fff05ea8012145500aa06d.jpg%402o.jpg"
+        "https://gd3.alicdn.com/imgextra/i3/2825144095/TB2VfKLjKEJL1JjSZFGXXa6OXXa_!!2825144095.jpg"
       ]
     },
     {
       "goodsId":1,
       "text":"测试描述1",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516730070247&di=6f42c9f524af289d714c4520614abce0&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D2356857058%2C3632184488%26fm%3D214%26gp%3D0.jpg",
+      "imageUrl":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1776532765,634619600&fm=27&gp=0.jpg",
       "spanSize":4
     },
     {
@@ -35,19 +35,19 @@
     {
       "goodsId":4,
       "text":"测试描述4",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515309916&di=4af5f46dcc9d2882e4f593260112dc1c&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01d20359c332bca8012053f8484d5d.jpg%401280w_1l_2o_100sh.jpg",
+      "imageUrl":"https://gd1.alicdn.com/imgextra/i1/0/TB16GbNSFXXXXahXFXXXXXXXXXX_!!0-item_pic.jpg",
       "spanSize":4
     },
     {
       "goodsId":5,
       "text":"测试描述1",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516727520727&di=8d78be96380b933ad7c34487e6514942&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01bd6558ca278aa801219c7773c33a.jpg%401280w_1l_2o_100sh.jpg",
+      "imageUrl":"https://gd2.alicdn.com/imgextra/i2/1045009426/TB2mJAtjwJkpuFjSszcXXXfsFXa_!!1045009426.jpg",
       "spanSize":4
     },
     {
       "goodsId":6,
       "text":"测试描述1",
-      "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516727520725&di=7994170c5674cdab419144158e776262&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F011cc85542989e0000019ae94967e7.jpg%401280w_1l_2o_100sh.jpg",
+      "imageUrl":"https://gd1.alicdn.com/imgextra/i1/906797528/TB2PrDDnsnI8KJjSsziXXb8QpXa_!!906797528.png",
       "spanSize":4
     }
   ]
